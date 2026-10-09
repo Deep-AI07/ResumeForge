@@ -72,17 +72,7 @@ npm run build
 npm run preview
 ```
 
----
 
-## 🌐 Deploy to Vercel
-
-1. Push this repository to your GitHub account (`Deep-AI07/ResumeForge`).
-2. Visit [Vercel Dashboard](https://vercel.com/dashboard) and click **"Add New" > "Project"**.
-3. Import the `ResumeForge` repository.
-4. Keep the default settings (Framework Preset: **Vite**, Build Command: `npm run build`, Output Directory: `dist`).
-5. Click **"Deploy"**.
-
----
 
 ## 📄 License
 
